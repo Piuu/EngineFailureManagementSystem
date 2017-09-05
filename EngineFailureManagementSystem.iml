@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/build/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/ate/discardLoco" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/ate/engineFailure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/chiefEngineer/engineFailure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/chiefEngineer/registerLoco" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/engineFailure/addNew" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/engineFailure/update" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/locoPosition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/maintenance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/purchaseOrder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/foreman/schedule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/delayReport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/employeeProfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/engineFailure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/engineProfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/locoPosition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/home/schedule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/storeKeeper/spareParts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/storeKeeper/suppliers/addNew" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/classes/ui/storeKeeper/suppliers/viewPrices" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
