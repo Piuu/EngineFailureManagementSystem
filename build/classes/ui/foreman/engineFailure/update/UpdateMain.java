@@ -8,11 +8,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-import java.io.IOException;
-
 import static javafx.stage.StageStyle.DECORATED;
 
-public class updateMain extends Application {
+public class UpdateMain extends Application {
 
     public static void main(String[] args) {
         launch(args);
@@ -20,7 +18,7 @@ public class updateMain extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("update.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("Update.fxml"));
         stage.setTitle("Engine Failure Management System - SLR");
         stage.initStyle(DECORATED);
         Scene scene = new Scene(root);
