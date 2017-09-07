@@ -24,8 +24,8 @@
                      <effect>
                         <Blend />
                      </effect></ImageView>
-                  <Label layoutX="18.0" layoutY="17.0" prefHeight="30.0" prefWidth="281.0" style="-fx-font-size: 15pt;" text="You are logged in as : Foreman" textAlignment="CENTER" textFill="#fffefe" />
-                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" text="Emp_No:" />
+                  <Label layoutX="18.0" layoutY="17.0" prefHeight="30.0" prefWidth="299.0" style="-fx-font-size: 15pt;" text="You are logged in as : Foreman" textAlignment="CENTER" textFill="#fffefe" />
+                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" style="-fx-font-weight: bold;" text="Emp_No:" />
                   <TextField layoutX="415.0" layoutY="21.0" prefHeight="25.0" prefWidth="98.0" />
                </children></AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
@@ -38,23 +38,23 @@
                         <DropShadow />
                      </effect>
                   </ImageView>
-                  <Button layoutX="320.0" layoutY="30.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Engine Failure">
+                  <Button layoutX="320.0" layoutY="30.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Engine Failure">
                      <effect>
                         <InnerShadow />
                      </effect></Button>
-                  <Button layoutX="320.0" layoutY="98.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Maintenance Records">
+                  <Button layoutX="320.0" layoutY="98.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Maintenance Records">
                      <effect>
                         <InnerShadow />
                      </effect></Button>
-                  <Button layoutX="320.0" layoutY="166.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Loco-Position">
+                  <Button layoutX="320.0" layoutY="166.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Loco-Position">
                      <effect>
                         <InnerShadow />
                      </effect></Button>
-                  <Button layoutX="320.0" layoutY="238.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Schedule">
+                  <Button layoutX="320.0" layoutY="238.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Schedule">
                      <effect>
                         <InnerShadow />
                      </effect></Button>
-                  <Button layoutX="465.0" layoutY="329.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="119.0" style="-fx-background-color: #80bfff;" text="Back">
+                  <Button layoutX="465.0" layoutY="329.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="119.0" style="-fx-background-color: linear-gradient(#2A5058, #61a2b1); -fx-font-weight: bold;" text="Back">
                      <effect>
                         <Blend />
                      </effect>
