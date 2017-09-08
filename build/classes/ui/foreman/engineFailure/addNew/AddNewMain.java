@@ -1,4 +1,4 @@
-package foreman.engineFailure.addNew; /**
+package ui.foreman.engineFailure.addNew; /**
  * Created by piumiindeevari on 9/5/2017.
  */
 
@@ -8,6 +8,7 @@ import javafx.scene.Group;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+
 
 import static javafx.stage.StageStyle.DECORATED;
 

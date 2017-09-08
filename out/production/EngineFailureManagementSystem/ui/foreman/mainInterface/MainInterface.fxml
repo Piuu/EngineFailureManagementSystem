@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.net.URL?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.SplitPane?>
-<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.effect.Blend?>
 <?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
@@ -20,47 +19,48 @@
                <children>
                   <ImageView fitHeight="56.0" fitWidth="71.0" layoutX="528.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/if_administrator_43663.png" />
+                        <Image url="@../../image/if_administrator_43663.png" />
                      </image>
                      <effect>
                         <Blend />
                      </effect></ImageView>
-                  <Label layoutX="18.0" layoutY="17.0" prefHeight="30.0" prefWidth="306.0" style="-fx-font-size: 15pt; -fx-font-weight: none;" text="You are logged in as : Foreman" textAlignment="CENTER" textFill="#fcf9f9" />
-                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" text="Emp_No:" />
+                  <Label layoutX="18.0" layoutY="17.0" prefHeight="30.0" prefWidth="299.0" style="-fx-font-size: 15pt;" text="You are logged in as : Foreman" textAlignment="CENTER" textFill="#fffefe" />
+                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" style="-fx-font-weight: bold;" text="Emp_No:" />
                   <TextField layoutX="415.0" layoutY="21.0" prefHeight="25.0" prefWidth="98.0" />
                </children></AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
                <children>
                   <ImageView fitHeight="404.0" fitWidth="261.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../image/sideImage.jpg" />
+                        <Image url="@../../image/6d2e95a800279913d71ca461ac507532--iphone-wallpaper-train-wallpaper.jpg" />
                      </image>
                      <effect>
                         <DropShadow />
                      </effect>
                   </ImageView>
-                  <Button layoutX="452.0" layoutY="331.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="113.0" text="Submit">
+                  <Button layoutX="320.0" layoutY="30.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Engine Failure">
+                     <effect>
+                        <InnerShadow />
+                     </effect></Button>
+                  <Button layoutX="320.0" layoutY="98.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Maintenance Records">
+                     <effect>
+                        <InnerShadow />
+                     </effect></Button>
+                  <Button layoutX="320.0" layoutY="166.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Loco-Position">
+                     <effect>
+                        <InnerShadow />
+                     </effect></Button>
+                  <Button layoutX="320.0" layoutY="238.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" style="-fx-font-weight: bold;" text="Schedule">
+                     <effect>
+                        <InnerShadow />
+                     </effect></Button>
+                  <Button layoutX="465.0" layoutY="329.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="119.0" style="-fx-background-color: linear-gradient(#2A5058, #61a2b1); -fx-font-weight: bold;" text="Back">
                      <effect>
                         <Blend />
-                     </effect></Button>
-                  <Button layoutX="305.0" layoutY="331.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="113.0" text="Back">
-                     <effect>
-                        <Blend />
-                     </effect></Button>
-                  <Label layoutX="299.0" layoutY="45.0" text="Label" />
-                  <Label layoutX="299.0" layoutY="90.0" text="Label" />
-                  <Label layoutX="300.0" layoutY="136.0" text="Label" />
-                  <Label layoutX="301.0" layoutY="179.0" text="Label" />
-                  <TextField layoutX="362.0" layoutY="41.0" />
-                  <TextField layoutX="362.0" layoutY="86.0" />
-                  <TextField layoutX="362.0" layoutY="132.0" />
-                  <TextArea layoutX="362.0" layoutY="177.0" prefHeight="118.0" prefWidth="159.0" />
+                     </effect>
+                  </Button>
                </children></AnchorPane>
         </items>
       </SplitPane>
    </children>
-   <stylesheets>
-      <URL value="@../../StyleSheet.css" />
-      <URL value="@../../StyleSheet.css" />
-   </stylesheets>
 </AnchorPane>

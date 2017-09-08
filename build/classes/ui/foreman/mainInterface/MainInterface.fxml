@@ -32,7 +32,7 @@
                <children>
                   <ImageView fitHeight="404.0" fitWidth="261.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../image/sideImage.jpg" />
+                        <Image url="@../../image/6d2e95a800279913d71ca461ac507532--iphone-wallpaper-train-wallpaper.jpg" />
                      </image>
                      <effect>
                         <DropShadow />
