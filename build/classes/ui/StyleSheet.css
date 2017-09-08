@@ -1,0 +1,11 @@
+.root {
+
+    -fx-font-weight: bold;
+    -fx-background-color: #007a99;
+}
+
+.button {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+
