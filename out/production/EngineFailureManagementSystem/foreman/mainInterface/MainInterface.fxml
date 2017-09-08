@@ -10,8 +10,9 @@
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="464.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.76-ea" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="464.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <SplitPane dividerPositions="0.1471861471861472" layoutY="-1.0" orientation="VERTICAL" prefHeight="464.0" prefWidth="600.0" style="-fx-background-color: #007a99;">
         <items>
@@ -25,7 +26,10 @@
                         <Blend />
                      </effect></ImageView>
                   <Label layoutX="18.0" layoutY="17.0" prefHeight="30.0" prefWidth="281.0" style="-fx-font-size: 15pt;" text="You are logged in as : Foreman" textAlignment="CENTER" textFill="#fffefe" />
-                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" text="Emp_No:" />
+                  <Label layoutX="351.0" layoutY="25.0" prefHeight="17.0" prefWidth="56.0" text="Emp_No:">
+                     <font>
+                        <Font size="13.0" />
+                     </font></Label>
                   <TextField layoutX="415.0" layoutY="21.0" prefHeight="25.0" prefWidth="98.0" />
                </children></AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
@@ -41,19 +45,31 @@
                   <Button layoutX="320.0" layoutY="30.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Engine Failure">
                      <effect>
                         <InnerShadow />
-                     </effect></Button>
+                     </effect>
+                     <font>
+                        <Font size="13.0" />
+                     </font></Button>
                   <Button layoutX="320.0" layoutY="98.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Maintenance Records">
                      <effect>
                         <InnerShadow />
-                     </effect></Button>
+                     </effect>
+                     <font>
+                        <Font size="13.0" />
+                     </font></Button>
                   <Button layoutX="320.0" layoutY="166.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Loco-Position">
                      <effect>
                         <InnerShadow />
-                     </effect></Button>
+                     </effect>
+                     <font>
+                        <Font size="13.0" />
+                     </font></Button>
                   <Button layoutX="320.0" layoutY="238.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="212.0" text="Schedule">
                      <effect>
                         <InnerShadow />
-                     </effect></Button>
+                     </effect>
+                     <font>
+                        <Font size="13.0" />
+                     </font></Button>
                   <Button layoutX="465.0" layoutY="329.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="119.0" style="-fx-background-color: #80bfff;" text="Back">
                      <effect>
                         <Blend />
