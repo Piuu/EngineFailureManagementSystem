@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface.fxml" afterPath="$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/foreman/mainInterface/MainInterface.fxml" afterPath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/foreman/mainInterface/MainInterface.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml" afterPath="$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,13 +63,23 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ATE_main.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="104">
               <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding />
+              <folding>
+                <marker date="1504854382915" expanded="true" signature="867:1136" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="898:997" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1029:1104" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1327:1438" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1355:1429" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1648:1759" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1676:1750" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1913:2024" ph="..." />
+                <marker date="1504854382915" expanded="true" signature="1941:2015" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,7 +87,7 @@
       <file leaf-file-name="ATE_main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="65">
               <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
@@ -198,7 +206,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1366" />
@@ -928,15 +936,15 @@
       <workItem from="1504667681478" duration="6223000" />
       <workItem from="1504702645738" duration="12361000" />
       <workItem from="1504852552372" duration="965000" />
-      <workItem from="1504853562772" duration="620000" />
+      <workItem from="1504853562772" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32199000" />
+    <option name="totallyTimeSpent" value="32430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1366" height="736" extended-state="0" />
+    <frame x="1" y="1" width="1366" height="736" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1270,14 +1278,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface_Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1308,14 +1308,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="104">
           <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding />
+          <folding>
+            <marker date="1504854382915" expanded="true" signature="867:1136" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="898:997" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1029:1104" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1327:1438" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1355:1429" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1648:1759" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1676:1750" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1913:2024" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1941:2015" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
