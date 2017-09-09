@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+<<<<<<< HEAD
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ATE_main/ATE_main.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/foreman/engineFailure/update/updateMain.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/foreman/mainInterface/MainInterfaceMain.class" afterPath="" />
@@ -17,6 +18,22 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/StyleSheet.css" afterPath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/StyleSheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/foreman/engineFailure/addNew/AddNew.fxml" afterPath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/foreman/engineFailure/addNew/AddNew.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/foreman/engineFailure/update/Update.fxml" afterPath="$PROJECT_DIR$/out/production/EngineFailureManagementSystem/ui/foreman/engineFailure/update/Update.fxml" />
+=======
+<<<<<<< HEAD
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml" afterPath="$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,6 +92,9 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ATE_main.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main.fxml">
@@ -191,6 +211,7 @@
         </entry>
       </file>
     </leaf>
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -289,7 +310,107 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+<<<<<<< HEAD
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EngineFailureManagementSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+=======
+          <expand>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="ATE_main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="foreman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="foreman" type="462c0819:PsiDirectoryNode" />
+              <item name="engineFailure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="foreman" type="462c0819:PsiDirectoryNode" />
+              <item name="engineFailure" type="462c0819:PsiDirectoryNode" />
+              <item name="addNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="foreman" type="462c0819:PsiDirectoryNode" />
+              <item name="mainInterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EngineFailureManagementSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EngineFailureManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane />
@@ -410,7 +531,12 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
+=======
+      <pane id="Scratches" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1042,20 +1168,51 @@
       <workItem from="1504635341090" duration="3526000" />
       <workItem from="1504656784700" duration="6322000" />
       <workItem from="1504666737462" duration="880000" />
+<<<<<<< HEAD
+      <workItem from="1504667681478" duration="6371000" />
+      <workItem from="1504723372153" duration="4303000" />
+      <workItem from="1504728868277" duration="1274000" />
+      <workItem from="1504808072752" duration="92000" />
+      <workItem from="1504823621547" duration="16679000" />
+      <workItem from="1504854575353" duration="88000" />
+      <workItem from="1504854698298" duration="145000" />
+      <workItem from="1504854929328" duration="70000" />
+      <workItem from="1504855115486" duration="902000" />
+=======
       <workItem from="1504667681478" duration="6223000" />
       <workItem from="1504702645738" duration="12361000" />
       <workItem from="1504852552372" duration="965000" />
       <workItem from="1504853562772" duration="851000" />
+<<<<<<< HEAD
       <workItem from="1504855420838" duration="766000" />
       <workItem from="1504859096287" duration="127000" />
       <workItem from="1504814993231" duration="1995000" />
       <workItem from="1504954687156" duration="602000" />
       <workItem from="1504965850415" duration="685000" />
+=======
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="36605000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="41954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="736" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="32430000" />
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1366" height="736" extended-state="1" />
@@ -1066,12 +1223,43 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33067092" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33067092" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21290801" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+=======
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21703704" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1131,6 +1319,7 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1152,6 +1341,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNewMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="0" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNew.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="510">
+<<<<<<< HEAD
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+=======
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNewMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+<<<<<<< HEAD
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+=======
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
     <entry file="file://$PROJECT_DIR$/build/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1196,7 +1423,15 @@
     <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNew_Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
+<<<<<<< HEAD
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+=======
+<<<<<<< HEAD
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+=======
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1206,7 +1441,15 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1220,7 +1463,15 @@
     <entry file="file://$PROJECT_DIR$/build/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
+<<<<<<< HEAD
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1230,7 +1481,15 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
+<<<<<<< HEAD
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+=======
+<<<<<<< HEAD
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+=======
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1243,6 +1502,16 @@
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ate/engineFailure/ui/engineFailure_Controller.java" />
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ate/discardLoco/ui/discardLoco.fxml" />
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ate/discardLoco/ui/discardLoco_Controller.java" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/build/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ate/discardLoco/discardLoco_Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1293,14 +1562,89 @@
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="306">
+<<<<<<< HEAD
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface_Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+=======
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/update/Update.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNewMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="187">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+=======
+        <state relative-caret-position="283">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/update/Update_Controller.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="119">
+<<<<<<< HEAD
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNew_Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/storeKeeper/Globals.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4573">
+          <caret line="304" column="25" selection-start-line="304" selection-start-column="25" selection-end-line="304" selection-end-column="25" />
+=======
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1321,7 +1665,12 @@
     <entry file="file://$PROJECT_DIR$/build/classes/ui/ATE_main/ATE_main_controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
+<<<<<<< HEAD
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+=======
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
@@ -1372,6 +1721,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/mainInterface/MainInterface_Controller.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="147">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+=======
         <state relative-caret-position="85">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
@@ -1409,6 +1762,7 @@
         <state relative-caret-position="374">
           <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
         </state>
       </provider>
     </entry>
@@ -1426,6 +1780,32 @@
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/addNew/AddNew_Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EngineFailureManagementSystem.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
       <provider editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
@@ -1457,13 +1837,37 @@
         <state relative-caret-position="289">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/ui/GlobalVar.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="374">
+          <caret line="32" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/update/UpdateMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/ui/foreman/engineFailure/update/Update_Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+=======
+        <state relative-caret-position="65">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
           <folding />
         </state>
       </provider>
@@ -1473,9 +1877,26 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="986">
           <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
           <folding />
+=======
+        <state relative-caret-position="104">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <marker date="1504854382915" expanded="true" signature="867:1136" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="898:997" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1029:1104" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1327:1438" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1355:1429" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1648:1759" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1676:1750" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1913:2024" ph="..." />
+            <marker date="1504854382915" expanded="true" signature="1941:2015" ph="..." />
+          </folding>
+>>>>>>> 6d99e5a0c1d589f1433a31106617589b798099f4
+>>>>>>> 02371469e15d42ff1728eed69e4905e3370756ab
         </state>
       </provider>
     </entry>
