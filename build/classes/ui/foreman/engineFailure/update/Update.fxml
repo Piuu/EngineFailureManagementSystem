@@ -48,14 +48,19 @@
                      <effect>
                         <Blend />
                      </effect></Button>
-                  <Label layoutX="328.0" layoutY="85.0" text="Failure Id" />
-                  <Label layoutX="328.0" layoutY="153.0" prefHeight="17.0" prefWidth="135.0" text="Recovery option taken:" />
-                  <TextField fx:id="txtfld_FailureId" layoutX="473.0" layoutY="81.0" prefHeight="25.0" prefWidth="210.0" />
+                  <Label layoutX="328.0" layoutY="85.0" text="Failure Id:" />
+                  <Label layoutX="332.0" layoutY="217.0" prefHeight="17.0" prefWidth="135.0" text="Recovery option taken:" />
+                  <TextField fx:id="txtfld_FailureId" layoutX="473.0" layoutY="81.0" prefHeight="25.0" prefWidth="135.0" />
                   <TextField fx:id="txtfld_Date" layoutX="473.0" layoutY="23.0" prefHeight="25.0" prefWidth="210.0" />
                   <Label layoutX="333.0" layoutY="27.0" prefHeight="17.0" prefWidth="30.0" text="Date:" />
-                  <TextArea fx:id="txtfld_RecoveryOption" layoutX="473.0" layoutY="145.0" prefHeight="109.0" prefWidth="210.0" />
-                  <Label layoutX="334.0" layoutY="269.0" prefHeight="66.0" prefWidth="197.0" text="Current State of the Locomotive:" />
-                  <ComboBox fx:id="cmbbox_CurrentState" layoutX="531.0" layoutY="290.0" prefWidth="150.0" />
+                  <TextArea fx:id="txtfld_RecoveryOption" layoutX="473.0" layoutY="196.0" prefHeight="109.0" prefWidth="210.0" />
+                  <Label layoutX="333.0" layoutY="315.0" prefHeight="66.0" prefWidth="197.0" text="Current State of the Locomotive:" />
+                  <ComboBox fx:id="cmbbox_CurrentState" layoutX="531.0" layoutY="335.0" prefWidth="150.0" />
+                  <Label layoutX="334.0" layoutY="136.0" text="Engine Type:" />
+                  <TextField layoutX="473.0" layoutY="132.0" prefHeight="25.0" prefWidth="50.0" />
+                  <Label layoutX="531.0" layoutY="136.0" text="Engine No:" />
+                  <TextField layoutX="606.0" layoutY="132.0" prefHeight="25.0" prefWidth="73.0" />
+                  <Button layoutX="631.0" layoutY="81.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="50.0" text="Go" />
                </children></AnchorPane>
         </items>
       </SplitPane>

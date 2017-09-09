@@ -1,4 +1,4 @@
-package foreman.mainInterface;/**
+package ui.foreman.mainInterface;/**
  * Created by piumiindeevari on 9/6/2017.
  */
 

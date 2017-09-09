@@ -1,4 +1,4 @@
-package ATE_main;
+package ui.ATE_main;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
